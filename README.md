@@ -23,7 +23,7 @@
 <a href="https://medium.com/@balajisakthivel2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@balajisakthivel2504" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,git,r" /> <img src="https://skillicons.dev/icons?i=python,firebase,mongodb,mysql,flask,aws,ai,scikitlearn" /><br> </div>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=,html,css,vscode,js,github,git,r" /> <img src="https://skillicons.dev/icons?i=python,firebase,mongodb,mysql,flask,aws,ai,scikitlearn" /><br> </div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaji2504&show_icons=true&locale=en&layout=compact" alt="balaji2504" /></p>
