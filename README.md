@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **balajisakthivel2504@gmail.com**
 
-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- ⚡ Fun fact **I am Funny**
 
 
 <h3 align="left">Connect with me:</h3>
