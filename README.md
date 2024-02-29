@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **balajisakthivel2504@gmail.com**
 
-- ⚡ Fun fact **I am Fuy**
+- ⚡ Fun fact **I am Funny**
 
 
 <h3 align="left">Connect with me:</h3>
