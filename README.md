@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bsportfolio.dorik.io/](https://bsportfolio.dorik.io/)
 
-- 📫 How to reach me **balajisakthivel2504@gmail.**
+- 📫 How to reach me **balajisakthivel2504@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
