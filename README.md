@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji2504&label=Profile%20views&color=0e75b6&style=flat" alt="balaji2504" /> </p>
 
-- 🌱 I’m currently learning **AI, Data Science**
+- 🌱 I’m currently learning **AI, Data **
 
 - 👨‍💻 All of my projects are available at [https://bsportfolio.dorik.io/](https://bsportfolio.dorik.io/)
 
