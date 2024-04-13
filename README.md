@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Balaji </h1>
+<h1 align="center">Hi 👋 I'm Balaji sakthivel</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
