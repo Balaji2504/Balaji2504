@@ -1,4 +1,4 @@
-# Hi there! I'm Balaji S 👋
+# Hi there! I'm Balaji Sakthivel 👋
 
 ## 🚀 About Me
 Aspiring Data Scientist with 1.5 years of experience in **Machine Learning, NLP, and Computer Vision**. Passionate about **data-driven decision-making** and building impactful AI solutions. I specialize in developing predictive models, analyzing large datasets, and leveraging AI to optimize business performance. With a strong foundation in Python and SQL, I enjoy working on end-to-end data science projects, from data collection to model deployment. My expertise spans deep learning, statistical analysis, and building interactive dashboards. I'm always eager to learn new technologies and apply them to real-world challenges.
